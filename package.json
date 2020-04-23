@@ -1,0 +1,25 @@
+{
+  "name": "webgl_samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonvey/webgl_samples.git"
+  },
+  "author": "Tonvey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tonvey/webgl_samples/issues"
+  },
+  "homepage": "https://github.com/Tonvey/webgl_samples#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "three-js": "^79.0.0",
+    "typescript": "^3.8.3"
+  }
+}
